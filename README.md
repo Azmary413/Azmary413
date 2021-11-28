@@ -10,6 +10,8 @@
 - 📫 How to reach me **azmarydresti321@gmail.com**
 - 📫 How to reach me **https://www.kaggle.com/azmary**
 - 📫 How to reach me **https://www.facebook.com/azmarybhuiyan.dresti**
+- - 📫 How to reach me **https://www.linkedin.com/azmary-bhuiyan-dresti**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
