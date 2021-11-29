@@ -4,7 +4,7 @@
 <h3 align="center">Whether you think you can or you think you can't, you're right.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmary413&label=Profile%20views&color=0e75b6&style=flat" alt="azmary413" /> </p>
-<img align="rightr" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmary413" alt="azmary413" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@azmary5139" target="blank"><img src="https://img.shields.io/twitter/follow/@azmary5139?logo=twitter&style=for-the-badge" alt="@azmary5139" /></a> </p>
