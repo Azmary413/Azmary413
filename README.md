@@ -1,10 +1,10 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://i.ibb.co/C2Sm5qn/azu.jpg
-https://i.ibb.co/C2Sm5qn/azu.jpg)
+
+
 <h1 align="center">Hi 👋, I'm This is Azmary🌸</h1>
 <h3 align="center">Whether you think you can or you think you can't, you're right.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmary413&label=Profile%20views&color=0e75b6&style=flat" alt="azmary413" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="rightr" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmary413" alt="azmary413" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@azmary5139" target="blank"><img src="https://img.shields.io/twitter/follow/@azmary5139?logo=twitter&style=for-the-badge" alt="@azmary5139" /></a> </p>
