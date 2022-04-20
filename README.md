@@ -1,4 +1,3 @@
-[![MasterHead](https://duckduckgo.com/?q=programmer+girl+animated+gif&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FqaLapQNglknQs%2Fgiphy.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, This is Azmary🌸</h1>
 <h3 align="center">Whether you think you can or you think you can't, you're right.</h3>
