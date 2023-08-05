@@ -1,4 +1,4 @@
-![logo](https://github.com/Azmary413/Azmary413/blob/main/azmary.png)
+![logo](https://github.com/Azmary413/Azmary413/blob/main/Artificial.webp)
 <h1 align="center">Hi 👋, This is Azmary🌸</h1>
 <h3 align="center">Whether you think you can or you think you can't, you're right.</h3>
 
